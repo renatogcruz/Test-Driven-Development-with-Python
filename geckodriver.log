@@ -1,0 +1,25 @@
+1704410910683	geckodriver	INFO	Listening on 127.0.0.1:54786
+1704410912707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RENATO~1.CRU\\AppData\\Local\\Temp\\rust_mozprofilejkyTry"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704410913046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704410913639	Marionette	INFO	Listening on port 54794
+Read port: 54794
+1704410913902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1704410943081	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704411014315	Marionette	INFO	Stopped listening on port 54794
+Dynamically enable window occlusion 1
+1704411553944	geckodriver	INFO	Listening on 127.0.0.1:54970
+1704411555977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RENATO~1.CRU\\AppData\\Local\\Temp\\rust_mozprofile7SfpQP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704411556257	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704411556587	Marionette	INFO	Listening on port 54978
+Read port: 54978
+1704411556747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1704411557821	Marionette	INFO	Stopped listening on port 54978
+Dynamically enable window occlusion 1
