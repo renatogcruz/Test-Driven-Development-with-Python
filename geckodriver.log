@@ -34,3 +34,27 @@ Read port: 52254
 1704656655276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1704656656415	Marionette	INFO	Stopped listening on port 52254
 Dynamically enable window occlusion 1
+1704721609683	geckodriver	INFO	Listening on 127.0.0.1:60521
+1704721611728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RENATO~1.CRU\\AppData\\Local\\Temp\\rust_mozprofilejoHem7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704721612232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704721612787	Marionette	INFO	Listening on port 60529
+Read port: 60529
+1704721613001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1704721620430	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704721620492	Marionette	INFO	Stopped listening on port 60529
+Dynamically enable window occlusion 1
+1704731799971	geckodriver	INFO	Listening on 127.0.0.1:50122
+1704731801996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RENATO~1.CRU\\AppData\\Local\\Temp\\rust_mozprofileNXGjn3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704731802456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704731803082	Marionette	INFO	Listening on port 50130
+Read port: 50130
+1704731803357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1704731811163	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704731811229	Marionette	INFO	Stopped listening on port 50130
+Dynamically enable window occlusion 1
