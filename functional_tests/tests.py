@@ -55,7 +55,8 @@ class NewVisitorTest(LiveServerTestCase):
             'Enter a to-do item'
         )
 
-        # Ela digita "Buy peacock feathers" em uma caixa de texto
+        # Ela digita "Buy peacock feathers" (comprar penas de pavão) em uma
+        # caixa de texto (o hobby de Edith é fazer iscas para pesca com fly)
         inputbox.send_keys('Buy peacock feathers')
 
         # Quando ela tecla enter, a página é atualizada, e agora a página lista
@@ -65,7 +66,8 @@ class NewVisitorTest(LiveServerTestCase):
         self.wait_for_row_in_list_table('1: Buy peacock feathers')
 
         # Ainda continua havendo uma caixa de texto convidando-a a acrescentar outro
-        # item. Ela insere "Use peacock feathers to make a fly"
+        # item. Ela insere "Use peacock feathers to make a fly" (usar penas de pavão
+        # para fazer um fly - Edith é bem metódica)
         inputbox = self.browser.find_element_by_id('id_new_item')
         inputbox.send_keys('Use peacock feathers to make a fly')
 

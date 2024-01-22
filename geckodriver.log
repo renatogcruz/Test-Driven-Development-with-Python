@@ -557,3 +557,28 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://l
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51069."
 1705312929103	Marionette	INFO	Stopped listening on port 51078
 Dynamically enable window occlusion 1
+1705946043663	geckodriver	INFO	Listening on 127.0.0.1:61722
+1705946045719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RENATO~1.CRU\\AppData\\Local\\Temp\\rust_mozprofilewT1e1z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705946046179	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705946046749	Marionette	INFO	Listening on port 61749
+Read port: 61749
+1705946046940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:61721."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:61721."
+1705946052318	Marionette	INFO	Stopped listening on port 61749
+Dynamically enable window occlusion 1
+1705946053029	geckodriver	INFO	Listening on 127.0.0.1:61793
+1705946055083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RENATO~1.CRU\\AppData\\Local\\Temp\\rust_mozprofileFm2lJW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705946055352	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705946055751	Marionette	INFO	Listening on port 61802
+Read port: 61802
+1705946055925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:61721."
+1705946057670	Marionette	INFO	Stopped listening on port 61802
+Dynamically enable window occlusion 1
